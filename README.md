@@ -1,12 +1,3 @@
-aafa
-afafaf
-af
-a
-fa
-f
-a
-fa
-fa
-gf
-ag
-age
+#readme
+## git tutorial
+branches
